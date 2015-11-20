@@ -5,7 +5,7 @@ header {
 }
 
 body {
-  background-image: url(/images/cardboard.png)
+  background-image: url(/images/cardboard.png);
   text-align: center;
   color: rgb(0, 51, 63);
   font-family: Helvetica, Arial;
